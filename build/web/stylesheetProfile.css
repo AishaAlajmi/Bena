@@ -1,0 +1,25 @@
+
+/* 
+    Created on : Nov 4, 2022, 12:10:21 AM
+    Author     : Razan Alshaikh
+*/
+
+
+.header_section {
+    padding: 0px;
+    text-align: center;
+    background: white;
+    color: white;
+    font-size: 20px;
+}
+.dropdown{
+    position: relative;
+    z-index: 10;
+}
+.nav-item{
+    margin-right:10px;
+}
+.navbar {
+    width: 101%;
+    background-color:lightgrey; 
+}
